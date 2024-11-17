@@ -6,7 +6,7 @@
 [resource]
 script = ExtResource( 1 )
 name = "Seasoned"
-desc = "Seen many a fish in their time."
+desc = "Seen many'a fish in their time."
 title = ""
 icon = ExtResource( 2 )
 species_alt_mesh = [  ]
