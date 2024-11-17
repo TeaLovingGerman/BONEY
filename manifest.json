@@ -1,0 +1,12 @@
+{
+	"Id": "TeaLovingLad.BONEY",
+	"PackPath": "TeaLovingLad.BONEY.pck",
+	"Dependencies": ["Sulayre.Lure"],
+	"Metadata": {
+    "Name": "Bunch of New Eyes, Yeah",
+    "Author": "Tea-Loving Lad",
+    "Version": "1.0.0",
+    "Description": "Adds a whole bunch of custom eyes for your goobers.",
+	"Dependencies": ["Sulayre.Lure"]
+  }
+}
