@@ -3,4 +3,4 @@ BONEY (short for "Bunch of New Eyes, Yeah" is a mod for Webfishing that adds aro
 
 Silly, serious, references, fancy, jokes, simple... This mod offers it all!
 
-https://imgur.com/g4AGYIu
+![alt text](https://imgur.com/g4AGYIu.png)
