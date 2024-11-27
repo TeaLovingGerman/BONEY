@@ -1,15 +1,15 @@
 {
   "Id": "TeaLovingLad.BONEY",
   "AssemblyPath": null,
-  "PackPath": "TeaLovingLadBONEY.pck",
+  "PackPath": "TeaLovingLad.BONEY.pck",
   "Dependencies": [
     "Sulayre.Lure"
   ],
   "Metadata": {
     "Name": "BONEY (Bunch of New Eyes, Yeah)",
     "Author": "Tea-Lovng Lad",
-    "Version": "1.0.3",
-    "Description": "Adds around 130 new eyes to customize your characters with!",
+    "Version": "1.0.5",
+    "Description": "Adds around 225 new eyes to customize your characters with!",
     "Homepage": "https://github.com/TeaLovingGerman/TeaLovingLad.BONEY"
   }
 }
