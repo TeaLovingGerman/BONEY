@@ -11,7 +11,7 @@ config_version=4
 [application]
 
 config/name="TeaLovingLad.BONEY"
-config/icon="res://icon.png"
+config/icon="res://mods/TeaLovingLad.BONEY/icon.png"
 
 [gui]
 
